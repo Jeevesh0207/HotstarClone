@@ -221,7 +221,7 @@
 
 .main .right .top_bar_left .topitem {
     margin: 20px;
-    width: 150px;
+    min-width: 150px;
     min-height: 200px;
     background-color: #fff;
     transform: skew(0deg, -3deg);
