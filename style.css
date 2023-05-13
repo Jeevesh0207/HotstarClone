@@ -207,7 +207,9 @@
     align-items: center;
 
 }
-
+.main .right .top_bar_left::-webkit-scrollbar{
+    display: none;
+}
 .main .right .topbarright {
     width: calc(100% - 600px);
     min-height: 30vh;
